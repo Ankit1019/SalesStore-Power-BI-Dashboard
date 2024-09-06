@@ -1,4 +1,4 @@
-# SalesStore-Power-BI-Dashboard
+# SuperStore-Sales-Power-BI-Dashboard
 # Dashboard:
 https://app.powerbi.com/groups/me/reports/38970941-f923-48dc-8974-1e2fc63827bf/f31bd18489aa4aba6de1?experience=power-bi
 
